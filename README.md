@@ -1,7 +1,7 @@
 # CIS-277 Assignment 2: Network Packet Arrival Queue
 
 ## Student
-Tatiana Jara — CIS-277
+Tatiana Jara
 
 ## Design
 
