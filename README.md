@@ -111,5 +111,5 @@ A returned block can be reused and overwritten immediately.
 The output must own an independent copy before the pool reclaims the block.
 
 ## AI Use
-I used ChatGPT to help me understand how the data structures in this assignment work and to assist with the implementation and documentation.
+I used ChatGPT to help me understand how the data structures in this assignment work.
 For example, ChatGPT helped me understand how a circular queue uses the modulo operator to reuse positions without shifting elements, and why memory blocks must be released after copying packet data.
